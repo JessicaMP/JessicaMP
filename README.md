@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Jess  <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="50" style="padding-left: 15px"></h1>
 <h3 align="center">👾Front end Developer👾</h3>
 
@@ -41,6 +39,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript"
+        title="javascript"
         width="40"
         height="40"
     />
@@ -54,6 +53,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript"
+        title="typescript"
         width="40"
         height="40"
     />
@@ -62,6 +62,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
         alt="nuxtjs"
+        title="nuxtjs"
         width="40"
         height="40"
     />
@@ -70,6 +71,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs"
+        title="vuejs"
         width="40"
         height="40"
     />
@@ -78,22 +80,25 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
+        title="react"
         width="40"
         height="40"
     />
     </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="padding-left: 15px">
     <img
-        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg"
         alt="babel"
+        title="babel"
         width="40"
         height="40"
     />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="padding-left: 15px">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
         alt="bootstrap"
+        title="bootstrap"
         width="40"
         height="40"
     />
@@ -102,6 +107,7 @@
     <img
         src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
         alt="bulma"
+        title="bulma"
         width="40"
         height="40"
     />
@@ -110,6 +116,7 @@
     <img
         src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
         alt="canvasjs"
+        title="canvasjs"
         width="40"
         height="40"
     />
@@ -118,6 +125,7 @@
     <img
         src="https://www.chartjs.org/media/logo-title.svg"
         alt="chartjs"
+        title="chartjs"
         width="40"
         height="40"
     />
@@ -126,14 +134,16 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
+        title="css3"
         width="40"
         height="40"
     />
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer" style="padding-left: 15px">
     <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"
         alt="cypress"
+        title="cypress"
         width="40"
         height="40"
     />
@@ -142,6 +152,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
         alt="figma"
+        title="figma"
         width="40"
         height="40"
     />
@@ -150,6 +161,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         alt="firebase"
+        title="firebase"
         width="40"
         height="40"
     />
@@ -158,6 +170,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
+        title="git"
         width="40"
         height="40"
     />
@@ -166,6 +179,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
+        title="html5"
         width="40"
         height="40"
     />
@@ -174,6 +188,7 @@
     <img
         src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
         alt="materialize"
+        title="materialize"
         width="40"
         height="40"
     />
@@ -187,6 +202,7 @@
     <img
         src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
         alt="mssql"
+        title="mssql"
         width="40"
         height="40"
     />
@@ -195,6 +211,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
         alt="postman"
+        title="postman"
         width="40"
         height="40"
     />
@@ -203,6 +220,7 @@
     <img
         src="https://cdn.worldvectorlogo.com/logos/pug.svg"
         alt="pug"
+        title="pug"
         width="40"
         height="40"
     />
@@ -211,6 +229,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
         alt="sass"
+        title="sass"
         width="40"
         height="40"
     />
@@ -219,6 +238,7 @@
     <img
         src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
         alt="selenium"
+        title="selenium"
         width="40"
         height="40"
     />
@@ -227,6 +247,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
         alt="sketch"
+        title="sketch"
         width="40"
         height="40"
     />
@@ -235,6 +256,7 @@
     <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
         alt="tailwind"
+        title="tailwind"
         width="40"
         height="40"
     />
@@ -243,6 +265,7 @@
     <img
         src="https://bestofjs.org/logos/vuetify.svg"
         alt="vuetify"
+        title="vuetify"
         width="40"
         height="40"
     />
@@ -251,6 +274,7 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack"
+        title="webpack"
         width="40"
         height="40"
     />
